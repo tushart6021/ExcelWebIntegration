@@ -125,15 +125,13 @@ public class demoAutomation {
 //		            // Close the browser after all iterations are done
 		            driver.quit();
 		        }
-//		    }
-//		}
-
+		        
+		        
+		   
 		
 		
 ///////////////////////////////////////////		
 		
-		
-//		driver.close();
 		
 
 	}
